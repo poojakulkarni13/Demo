@@ -4,7 +4,7 @@ import java.util.HashMap;
 
 public class Appstart {
 public static void main(String[] args) {
-	
+	System.out.println(" main");
 	HashMap<String, String> hmap= new HashMap<String, String>();
 	hmap.put("1", "V1");
 	hmap.put("2", "V2");
