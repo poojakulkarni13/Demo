@@ -10,6 +10,7 @@ public static void main(String[] args) {
 	hmap.put("2", "V2");
 	hmap.put("3", "V3");
 	hmap.put("4", "V4");
+	hmap.put("5", "V5");
 	System.out.println(hmap);
 	ABC abc= new ABC();
 	System.out.println(abc.hashCode());
