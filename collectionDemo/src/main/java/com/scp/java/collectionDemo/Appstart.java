@@ -14,6 +14,7 @@ public static void main(String[] args) {
 	ABC abc= new ABC();
 	System.out.println(abc.hashCode());
 	System.out.println(abc);
+	System.out.println(" main completed");
 	
 }
 }
